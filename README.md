@@ -76,7 +76,7 @@ Delta is an iOS application that allows you to emulate and play video games for 
         - Action Replay
         - Code Breaker
         - GameShark
-    - DS
+    - DS 
         - Action Replay
 - Gyroscope support  **(WarioWare: Twisted! only)**
 - Microphone support **(DS only)**
